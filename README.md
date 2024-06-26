@@ -52,6 +52,34 @@ Developed a comprehensive Hotel Aggregator Report using SQL and Tableau, enablin
 
 ---
 
+### Vrinda Store Annual Report - Excel Project
+**2023**
+
+Created a detailed annual report for Vrinda Store using Excel, focusing on key metrics such as sales performance, order status, and customer demographics.
+
+- Analyzed order vs sales data to identify trends and improve forecasting accuracy.
+- Visualized sales distribution across top states to identify high-performing regions.
+- Assessed sales performance by gender and age group to understand customer segments better.
+- Evaluated sales channels to optimize marketing and sales strategies.
+
+![Vrinda Store Annual Report](./mnt/data/5.jpeg)
+
+---
+
+### Electric Vehicles Data Analysis - Tableau Project
+**2024**
+
+Conducted an in-depth analysis of electric vehicle data using Tableau to understand market trends and performance metrics.
+
+- Analyzed average electric ranges and total vehicle counts to assess market growth.
+- Visualized top vehicle models and manufacturers to identify key players in the market.
+- Mapped vehicle distribution by state to understand regional market dynamics.
+- Evaluated CAFÉ eligibility and its impact on vehicle distribution.
+
+![Electric Vehicles Data Analysis](./mnt/data/3.jpeg)
+
+---
+
 ## Education
 
 **Business Administration - International Business**  
